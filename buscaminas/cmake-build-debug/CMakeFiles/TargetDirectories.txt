@@ -1,0 +1,3 @@
+/home/giovanic/CLionProjects/buscaminas/cmake-build-debug/CMakeFiles/buscaminas.dir
+/home/giovanic/CLionProjects/buscaminas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/giovanic/CLionProjects/buscaminas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
